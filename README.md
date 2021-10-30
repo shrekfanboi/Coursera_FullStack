@@ -4,7 +4,7 @@ For more details check out
 
 https://www.coursera.org/learn/bootstrap-4/home/welcome
 
-This Porject is a part of the Coursera FrontEnd Web UI Frameworks course. For more details see https://www.coursera.org/learn/bootstrap-4/home/welcome.
+This Porject is a part of the Coursera FrontEnd Web UI Frameworks course.
 
 Steps to run the website on localhost
 1. Clone this repo.
